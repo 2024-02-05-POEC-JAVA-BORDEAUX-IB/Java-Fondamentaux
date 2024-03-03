@@ -1,8 +1,8 @@
 /**
  * Exercice Exceptions
  * 
- * Ecrire un programme qui demande a l'utilisateur de saisir une des entiers un par un 
- * et ajouter ces nombre dans une liste au fur et a mesure de la saisie.
+ * Ecrire un programme qui demande a l'utilisateur de saisir des entiers un par un 
+ * et ajouter ces nombres dans une liste au fur et a mesure de la saisie.
  * puis a l'aide de parcours de la liste, effectuer les actions suivantes :
  * 1) Afficher la liste
  * 2) Afficher la liste en colonne de maniere a afficher l'index et le contenu
